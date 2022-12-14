@@ -1,5 +1,5 @@
 # Grocery-Tracker-Version-2
-A simple Grocery Tracker with a singular item
+A Grocery Tracker with a collection of items and crud functionality
 
 # Project Description
 In this version, a collection of items were used that would allow the user to add, remove and display items they want to get from the grocery store. These items will be placed on their "list" which will be displayed in the intellij console. 
