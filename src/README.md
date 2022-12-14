@@ -1,5 +1,13 @@
-Lets create GroceryTracker, an application that lets the user track an item, they want to purchase froma grocery store. In this application we are only going to be dealing with a collection of items
+# Grocery-Tracker-Version-2
+A simple Grocery Tracker with a singular item
 
-- Add a 'org.example.GroceryList' class that will allow the user to add, remove and display items they want to get from the grocery store... these items will be placed on their "list" which will be displayed in the intellij console
-- Use TDD to drive the creation of theis class
-- Update the main method to give menu options to the user to implement these "list" tasks
+# Project Description
+In this version, a collection of items were used that would allow the user to add, remove and display items they want to get from the grocery store. These items will be placed on their "list" which will be displayed in the intellij console. 
+
+# Install
+- Software: Intellij
+- Language: Java
+- Build OS:  Gradle
+- Pathway For UserInterface: /src/main/java/org/example/GroceryApp.java/
+- Pathway For App CRUD functionality: /src/main/java/org/example/GroceryApp.java/
+- Pathway For Interface Blueprint: /src/main/java/org/example/GroceryItem.java 
